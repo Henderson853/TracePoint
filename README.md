@@ -2,13 +2,20 @@
 
 ## Operation Digital Detective — NWED622
 
-### Student Information
+### Group Information
 
-**Student Name:** Thuto Henderson
-**Student Number:** `[ENTER YOUR STUDENT NUMBER]`
+| No. | Student Name           | Student Number           |
+| --: | ---------------------- | ------------------------ |
+|   1 | Thuto Henderson        | 202207325                |
+|   2 | Lebogang Ntholeng      | 202336592                |
+|   3 | Aatea Kakoli Kakudi    | 202572559                |
+|   4 | Nomzamo Lusanda Xaba   | 202425697                |
+|   5 | Milisa Lunika          | 202431987                |
+
 **Module:** NWED622 — Web Development II
 **Application:** TracePoint Investigations
 **Academic Year:** 2026
+
 
 ---
 
