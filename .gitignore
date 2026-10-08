@@ -1,0 +1,32 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# .NET
+**/bin/
+**/obj/
+
+# ASP.NET / local settings
+**/appsettings.Development.json
+
+# Node
+**/node_modules/
+**/dist/
+
+
+# Enviroment variables
+.env
+.env.*
+
+# SQLite database
+*.db
+*.db-shm
+*db-wal
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thums.db
